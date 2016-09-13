@@ -1,0 +1,21 @@
+{
+  "name": "ReactDatePicker",
+  "version": "",
+  "private": false,
+  "dependencies": {
+    "classname": "0.0.0",
+    "normalize.css": "^4.2.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwson/ReactDatePicker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rwson/ReactDatePicker/issues"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  }
+}
